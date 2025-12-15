@@ -122,17 +122,7 @@ sh.shardCollection("myDatabase.myCollection", { "userId": "hashed" })
 
 ---
 
-## 📸 Kết quả & Minh họa
 
-Dưới đây là hình ảnh thực tế từ quá trình triển khai:
-
-### 1. Trạng thái Replication
-*(Chèn hình ảnh `rs.status()` hoặc giao diện Compass tại đây)*
-![Replication Status](images/replication-status.png)
-
-### 2. Trạng thái Sharding
-*(Chèn hình ảnh `sh.status()` hiển thị các shard đã kết nối)*
-![Sharding Status](images/sharding-status.png)
 
 ---
-*Thực hiện bởi: [Tên của bạn]*
+*Thực hiện bởi: [Tâm le]*
