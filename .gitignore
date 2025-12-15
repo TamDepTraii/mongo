@@ -1,0 +1,12 @@
+# MongoDB data directories
+/data
+/db
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
